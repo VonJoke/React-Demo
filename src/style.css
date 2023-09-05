@@ -1,0 +1,10 @@
+h1 {
+  color: #cd7f32;
+}
+a {
+  color: silver;
+  text-decoration: none;
+}
+a:hover {
+  color: gold;
+}
